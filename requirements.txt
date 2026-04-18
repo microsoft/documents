@@ -1,0 +1,7 @@
+python-docx>=0.8.11
+pyyaml>=6.0
+lxml>=4.9
+azure-ai-inference>=1.0.0b9
+azure-identity>=1.15
+python-dotenv>=1.0
+openai>=1.0
